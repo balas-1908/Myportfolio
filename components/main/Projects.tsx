@@ -22,7 +22,7 @@ const Projects = () => {
                     src="/pickbazaar.png"
                     title="PickBazaar"
                     description="A React.js-based e-commerce frontend that allows users to log in, browse fruit products, and experience a smooth shopping interface with a clean and responsive UI"
-                    link="https://ecommerce--balaji57671.replit.app/"
+                    link="https://ecommerce-sand-theta-67.vercel.app/"
                 />
                 <ProjectCard
                     src="/quiz.png"
