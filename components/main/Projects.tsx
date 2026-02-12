@@ -36,6 +36,12 @@ const Projects = () => {
                     description="Developed a timed Q&A skill assessment application where users answer questions within a fixed time limit"
                     link="https://balapredict.streamlit.app"
                 />
+                <ProjectCard
+                    src="/resume.png"
+                    title="AI Resume Builder"
+                    description="AI-powered Streamlit application showcasing generative AI capabilities and interactive machine learning features"
+                    link="https://balagenai.streamlit.app/"
+                />
             </div>
         </div>
     );

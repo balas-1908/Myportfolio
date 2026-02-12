@@ -99,7 +99,7 @@ const LoadingScreen = () => {
                                 className="flex flex-col items-center"
                             >
                                 <h2 className="text-4xl font-black bg-gradient-to-r from-[#7042f8] via-[#c084fc] to-[#00c7ff] bg-clip-text text-transparent uppercase tracking-[0.8em]">
-                                    BALAJI
+                                    BALASHANMUGAM
                                 </h2>
                                 <div className="flex items-center gap-4 mt-4">
                                     <div className="h-[1px] w-12 bg-gray-800" />
